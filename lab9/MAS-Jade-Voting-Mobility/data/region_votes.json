@@ -1,0 +1,34 @@
+[   
+    {"ballots" : [
+        {"count": 130, "candidates": ["c1", "c2", "c3", "c4", "c5"]},
+        {"count": 80, "candidates": ["c2", "c3", "c4", "c5", "c1"]},
+        {"count": 40, "candidates": ["c3", "c4", "c5", "c1", "c2"]}
+    ]},
+    
+    {"ballots" : [
+        {"count": 40, "candidates": ["c1", "c2", "c3", "c4", "c5"]},
+        {"count": 58, "candidates": ["c2", "c3", "c4", "c5", "c1"]},
+        {"count": 36, "candidates": ["c3", "c4", "c5", "c1", "c2"]},
+        {"count": 47, "candidates": ["c4", "c5", "c1", "c2", "c3"]},
+        {"count": 24, "candidates": ["c5", "c1", "c2", "c3", "c4"]},
+        {"count": 45, "candidates": ["c3", "c1", "c4", "c2", "c5"]}
+    ]},
+
+    {"ballots" : [
+        {"count": 46, "candidates": ["c2", "c1", "c3", "c4", "c5"]},
+        {"count": 52, "candidates": ["c2", "c3", "c4", "c5", "c1"]},
+        {"count": 40, "candidates": ["c2", "c3", "c1", "c5", "c4"]},
+        {"count": 41, "candidates": ["c3", "c2", "c1", "c5", "c4"]},
+        {"count": 30, "candidates": ["c1", "c2", "c3", "c5", "c4"]},
+        {"count": 41, "candidates": ["c3", "c1", "c2", "c4", "c5"]}
+    ]},
+
+    {"ballots" : [
+        {"count": 46, "candidates": ["c5", "c4", "c2", "c3", "c1"]},
+        {"count": 52, "candidates": ["c5", "c4", "c2", "c1", "c3"]},
+        {"count": 42, "candidates": ["c5", "c4", "c1", "c2", "c3"]},
+        {"count": 39, "candidates": ["c4", "c5", "c3", "c1", "c2"]},
+        {"count": 35, "candidates": ["c2", "c3", "c1", "c4", "c5"]},
+        {"count": 36, "candidates": ["c1", "c5", "c2", "c3", "c4"]}
+    ]}
+]
