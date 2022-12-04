@@ -1,0 +1,25 @@
+{
+	"F": 7,
+	"E": 2,
+	"C": 4,
+	"dynamic":	{
+		"Tdoors": 3,
+		"Tclose": 4,
+		"Ttransit": 1,
+		"Tslow": 3,
+		"Taccel": 2,
+		"Tfast": 1
+		},
+	"scenarios":	{
+		"normal":	[
+			{"Tfrom": 1, "Tto": 3600, "Ofrom": 1, "Oto": 7, "Dfrom": 1, "Dto": 7, "Period": 60}
+			],
+		"morning":	[
+			{"Tfrom": 1, "Tto": 900, "Ofrom": 1, "Oto": 1, "Dfrom": 3, "Dto": 7, "Period": 30},
+			{"Tfrom": 1, "Tto": 3600, "Ofrom": 3, "Oto": 7, "Dfrom": 1, "Dto": 2, "Period": 120}
+			],
+		"intensive":	[
+			{"Tfrom": 1, "Tto": 3600, "Ofrom": 1, "Oto": 7, "Dfrom": 1, "Dto": 7, "Period": 20}
+			]
+		}
+}
